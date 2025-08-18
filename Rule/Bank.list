@@ -241,7 +241,9 @@ DOMAIN-SUFFIX,bankcomm.com.au,Bank
 DOMAIN-SUFFIX,bankcomm.com.mo,Bank
 DOMAIN-SUFFIX,bankcomm.com.tw,Bank
 
-DOMAIN-SUFFIX,bank.za,Bank
+HOST-KEYWORD,za,Bank
+DOMAIN-KEYWORD,za,Bank
+
 
 DOMAIN-SUFFIX,livibank.com,Bank
 DOMAIN-SUFFIX,livi.com,Bank
