@@ -123,9 +123,8 @@ DOMAIN-SUFFIX,livi.com,Bank
 DOMAIN-SUFFIX,hsbc.com.cn,Bank
 DOMAIN-SUFFIX,hsbc.com.hk,Bank
 
-HOST-KEYWORD,usmart,Bank
+
 DOMAIN-KEYWORD,usmart,Bank
-HOST-KEYWORD,usmartglobal,Bank
 DOMAIN-KEYWORD,usmartglobal,Bank
-HOST-KEYWORD,usmart66,Bank
-DOMAIN-KEYWORD,usmart66,Bank
+DOMAIN-KEYWORD,usmartsecurities,Bank
+DOMAIN-KEYWORD,usmart8,Bank
